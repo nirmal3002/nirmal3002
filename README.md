@@ -9,6 +9,7 @@
 - [basic Express App with CRUD operation](https://github.com/nirmal3002/ExpressProject1)
 - [basic pratice express operation](https://github.com/nirmal3002/expressApp2)
 - [express status code + with mongoose connection + try catch error handeling](https://github.com/nirmal3002/express-App2)
+- [besic react project password validator](https://github.com/nirmal3002/reactApp-prog1/tree/main/password-validator)
 
 <!---
 nirmal3002/nirmal3002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
