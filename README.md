@@ -8,8 +8,8 @@
 ### Here are my project
 **Express Projects**
 - [Basic Express App with CRUD operation](https://github.com/nirmal3002/ExpressProject1)
-- [Basic pratice express operation, testing done with http client ](https://github.com/nirmal3002/expressApp2)
-- [express status code + with mongoose connection + try catch error handeling & better folder structure](https://github.com/nirmal3002/express-App2)
+- [Basic  express application, with crud operation , testing done with http file ](https://github.com/nirmal3002/expressApp2)
+- [ Express crud operation +  status code+ with mongoose connection + try catch error handeling & better folder structure](https://github.com/nirmal3002/express-App2)
 
 **React Project**
 
