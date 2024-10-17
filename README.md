@@ -14,10 +14,10 @@
 
 **React Project**
 
- - [Basic react project for world-letter counter](https://github.com/nirmal3002/reactApp-prog1/tree/main/wordletter-counter/src)
+ - [Basic react project for world-letter count](https://github.com/nirmal3002/reactApp-prog1/tree/main/wordletter-counter/src)
  - [Basic react project password validator](https://github.com/nirmal3002/reactApp-prog1/tree/main/password-validator)
- - [basic react project for create a lyrics finder](https://github.com/nirmal3002/reactApp-prog1/tree/main/lyrics-finder)
- - [Basic react project for cheaking the weather of different cities](https://github.com/nirmal3002/reactApp-prog1/tree/main/weather-tracker)
+ - [basic react project for create a lyrics-finder](https://github.com/nirmal3002/reactApp-prog1/tree/main/lyrics-finder)
+ - [Basic react project for weather-tracker of different cities](https://github.com/nirmal3002/reactApp-prog1/tree/main/weather-tracker)
  - [Basic react project for password-validator](https://github.com/nirmal3002/reactApp-prog/tree/main/password-validator)
  - [basic react project for axios app](https://github.com/nirmal3002/reactApp-prog1/tree/main/axios-app)
    
