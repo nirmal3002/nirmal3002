@@ -1,9 +1,9 @@
 ## hi there
 - 👋 Hi, I’m Nirmal
-- 👀 I’m interested in playing Badminton
+- 👀 I’m interested in learn different skills
 - 🌱 I’m currently learning Bsc computer science
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to nirmal3002@gmail.com
+- 📫 How to reach me nirmal3002@gmail.com
 
 ### Here are my project
 **Express Projects**
