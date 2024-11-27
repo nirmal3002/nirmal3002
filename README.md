@@ -14,7 +14,7 @@
 
 **React Project**
 
- - [Basic react project for world-letter count](https://github.com/nirmal3002/reactApp-prog1/tree/main/wordletter-counter/src)
+ - [Basic react project for world-letter count](https://github.com/nirmal3002/reactApp-prog1/tree/main/wordletter-counter)
  - [Basic react project password validator](https://github.com/nirmal3002/reactApp-prog1/tree/main/password-validator)
  - [Basic react project for create a lyrics-finder](https://github.com/nirmal3002/reactApp-prog1/tree/main/lyrics-finder)
  - [Basic react project for weather-tracker of different cities](https://github.com/nirmal3002/reactApp-prog1/tree/main/weather-tracker)
