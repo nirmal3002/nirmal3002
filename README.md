@@ -21,10 +21,11 @@
  - [Basic react project for password-validator](https://github.com/nirmal3002/reactApp-prog/tree/main/password-validator)
  - [Basic react project for axios app](https://github.com/nirmal3002/reactApp-prog1/tree/main/axios-app)
  - [Basic react project for navigation of React Router in React-application](https://github.com/nirmal3002/reactApp-prog/tree/main/react-router-lab)
+
 **MERN Stack project**
 
  - [A complete MERN project for restrunt management and slot booking ](https://github.com/nirmal3002/RESTRUNT-MGMT)   
-   
+ - [Complete MERN stack project with proper deploment of clinic-management system](https://github.com/nirmal3002/clinic-Mgmt)  
   
 <!---
 nirmal3002/nirmal3002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
