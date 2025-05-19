@@ -1,5 +1,4 @@
-## hi there
-- 👋 Hi, I’m Nirmal
+## 👋 Hi, I’m Nirmal
 - 👀 I’m interested in learn different skills
 - 🌱 I’m currently learning Bsc computer science
 - 💞️ I’m looking to collaborate on Google
